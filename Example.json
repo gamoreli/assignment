@@ -1,0 +1,26 @@
+[
+  {
+    "operator": "In",
+    "fieldName": "Name",
+    "fieldValues": [
+      "Gabriel",
+      "Lucas",
+      "Rajesh"
+    ]
+  },
+  {
+    "operator": "Equal",
+    "fieldName": "Role",
+    "fieldValues": [
+      "Programmer"
+    ]
+  },
+  {
+    "operator": "LowerThanOrEqual",
+    "fieldName": "Age",
+    "fieldValues": [
+      "24"
+    ]
+  }
+]
+
